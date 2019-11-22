@@ -1,4 +1,0 @@
-#!/bin/bash
-
-mkdir -p package/var/log/awesome_logs
-touch package/var/log/awesome_logs/logs.txt
