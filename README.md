@@ -14,7 +14,7 @@
 	- содержимое папки dest должно находиться в /usr/lib;
 	- содержимое папки include должно находиться в /usr/include/awesome_lib;
 	- содержимое папки prefs должно находиться в /etc/awesome_settings;
-	- файл global.json из папки thirdparty должен находиться в /etc/awesome_settings;
+	- файл thirdparty.so из папки thirdparty должен находиться в /etc/awesome_settings;
 	- содержимое папки thirdparty/helper должно находиться в /opt/awesome_helper;
 	- после установки пакета в папке /var/log/awesome_logs должен появиться файл logs.txt
 	- после удаления пакета файл logs.txt в папке /var/log/awesome_logs должен быть удален вместе с самой папкой awesome_logs;
